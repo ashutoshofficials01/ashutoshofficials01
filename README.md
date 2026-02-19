@@ -25,5 +25,5 @@ Full-stack app for resume uploads, management, filtering, and processing.
 ## 📫 Connect
 - 📧 ashutosh.officials01@gmail.com  
 - 📱 +91-6265111040, +91-6260083674  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashutoshofficials01)  
+- 💼 https://www.linkedin.com/in/ashutoshofficials01   
 - 🏠 Chennai, Tamil Nadu
